@@ -4,13 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at [SIST](https://sist.shanghaitech.edu.cn/sist_en/) of 
-[Shanghaitech University](https://www.shanghaitech.edu.cn/eng/).
+Hi! I am an 3rd year undergraduate student at [SIST](https://sist.shanghaitech.edu.cn/sist_en/) of 
+[Shanghaitech University](https://www.shanghaitech.edu.cn/eng/) majored in Computer Science. 
+My research insterests lie in making perception, reconstruction and rendering more realistic and 
+efficient through creating breakthroughs in Computer Vision and Computer Graphics. Specifically, 
+I am exploring 
 
-<!-- ## Research Interests
+I am honored to research under the guidance of [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and 
+[Prof. Lan Xu](http://xu-lan.com/) in [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/)
+at Shanghaitech University.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 <!-- ## News
 
@@ -22,3 +25,5 @@ I am an undergraduate student at [SIST](https://sist.shanghaitech.edu.cn/sist_en
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/awards.md %}
