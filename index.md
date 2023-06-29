@@ -8,7 +8,7 @@ Hi! I am a 3rd year undergraduate student at [SIST](https://sist.shanghaitech.ed
 [Shanghaitech University](https://www.shanghaitech.edu.cn/eng/) majored in Computer Science. 
 My research insterests lie in making perception, reconstruction and rendering more realistic and 
 efficient through creating breakthroughs in Computer Vision and Computer Graphics. Specifically, 
-I am exploring 
+I am exploring test time training on segmentation tasks and 3D reconstruction of human head from images.
 
 I am honored to research under the guidance of [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and 
 [Prof. Lan Xu](http://xu-lan.com/) in [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/)
