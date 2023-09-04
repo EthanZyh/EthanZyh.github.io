@@ -12,7 +12,7 @@ I am exploring test time training on segmentation tasks and 3D reconstruction of
 
 I am honored to research under the guidance of [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/) and 
 [Prof. Lan Xu](http://xu-lan.com/) in [VRVC Lab](https://vic.shanghaitech.edu.cn/vrvc/en/)
-at Shanghaitech University.
+at ShanghaiTech University.
 
 
 <!-- ## News
