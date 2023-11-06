@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a 3rd year undergraduate student at [SIST](https://sist.shanghaitech.edu.cn/sist_en/) of 
-[Shanghaitech University](https://www.shanghaitech.edu.cn/eng/) majored in Computer Science. 
+Hi! I am a 4th year undergraduate student at [SIST](https://sist.shanghaitech.edu.cn/sist_en/) of 
+[ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) majored in Computer Science. 
 My research insterests lie in making perception, reconstruction and rendering more realistic and 
 efficient through creating breakthroughs in Computer Vision and Computer Graphics. Specifically, 
 I am exploring test time training on segmentation tasks and 3D reconstruction of human head from images.

@@ -17,5 +17,5 @@
 
 
 
-- Sep. 2023 ~ Jan. 2024 (Expected): Teaching Assistant in CS101 (Algorithms and Data Structures), ShanghaiTech University
+- Sep. 2023 ~ Jan. 2024: Teaching Assistant in CS101 (Algorithms and Data Structures), ShanghaiTech University
 - Sep. 2020 ~ Present: Vice president of ACM Club, ShanghaiTech University

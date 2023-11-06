@@ -17,6 +17,7 @@
     <div class="periodical"><em>SIGGRAPH ASIA Journal Track, 2022.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2209.06423.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://alittleball.github.io/proj/sculptor" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Web</a>
       <a href="https://www.youtube.com/watch?v=-yqZcK34Byo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
